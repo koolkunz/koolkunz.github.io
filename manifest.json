@@ -2,8 +2,6 @@
   "name": "React Material Admin",
   "short_name": "React Material Admin",
   
-  "dir": "ltr",
-  
   "lang": "en-US",
   "orientation": "any",
   
@@ -28,5 +26,5 @@
   "theme_color": "#536DFE",
   "background_color": "#ffffff",
   
-  "description": "A Progressive Web Application using React and Material UI",
+  "description": "A Progressive Web Application using React and Material UI"
 }
